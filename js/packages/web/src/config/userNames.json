@@ -1,6 +1,6 @@
 {
   
-  "DGuisP8u8poFHtsYnBjeETW9LXtBcegLdMXRW42oF21F": {. 
+  "DGuisP8u8poFHtsYnBjeETW9LXtBcegLdMXRW42oF21F": { 
     "name": "Founding Creators",
     "image": "https://i.ibb.co/34SbT2F/Copy-of-EVOLAN.png",
     "description": "A Collection of EVO-DAO Members",
@@ -38,7 +38,14 @@
     "image": "https://i.ibb.co/DMrSwZ6/Screen-Shot-2021-09-04-at-10-11-24-PM.png",
     "description": "Creator of abstract landscapes/portraits created using generative adversarial networks (GANs) and different machine learning techniques. each is one of a kind.",
     "background": ""
-  }
+  },
+  
+   "CXZbeaBecceeX5MGqK2naWrNT4AvtbwS3mRBfcufrSg6": {
+   "name": "DizzyJay",
+   "image": "https://i.ibb.co/DQnY6Sw/D.png",
+   "description": "",
+   "background": ""
+ }
 
 }
 
