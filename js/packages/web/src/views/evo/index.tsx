@@ -1,10 +1,8 @@
 
 
 import { TwitterOutlined,  DownloadOutlined} from '@ant-design/icons';
-import React, { useState}  from 'react';
-import { Col, Row, Button, Divider, Collapse,  Card, Statistic } from 'antd';
-import { Link } from 'react-router-dom';
-import {  Tabs } from 'antd';
+import React from 'react';
+import { Col, Row,  Divider, Collapse,  Card} from 'antd';
 import { Typography, Pagination  } from 'antd';
 
 const { Paragraph } = Typography;
@@ -29,22 +27,26 @@ export const EvoView  = () => {
 
       <div style={{maxWidth: 500, height: 800,  marginTop: 10,}}>   
       
-            <div className="evo-dao-2">  <h1  style={{ fontSize: 35 }}>Own an Auction Platform </h1>
-            <i style={{ fontSize: 15 }}>09/08/2021</i>
+            <div className="evo-dao-2">  <h1  style={{ fontSize: 35 }}>An Auction Platform Controlled by the People</h1>
+            <i style={{ fontSize: 15 }}>09/08/2021 -10:00PM UTC</i>
             </div>
             <div className="evo-dao-1" style={{ fontSize: 15,  marginTop: 50 }}>
-            <h1>500 EVO-NFT = EVO-DAO </h1> 
+            <h1>500 EVO-NFTs = EVO-DAO </h1> 
              </div>
+<div style={{marginTop:40, marginBottom: 50}}>
 
-            <div > 
-   
-             <a href="https://docs.google.com/document/d/1aeCZ63cWHIVvGL65yREi37krE05I7aPa9vz3B9UYTVc/edit?usp=sharing">
-          <Button type="primary" icon={<DownloadOutlined />} className="download" style={{   marginTop: 50, marginBottom: 50, color: "white"}}>
-                Lite-Paper
-          
-        </Button>
+
+Lite-Paper
+                <a href="https://docs.google.com/document/d/1aeCZ63cWHIVvGL65yREi37krE05I7aPa9vz3B9UYTVc/edit?usp=sharing">
+            <DownloadOutlined /> 
+     
         </a>
      
+</div>
+            <div > 
+   
+           
+
     
 
     
@@ -255,6 +257,15 @@ export const EvoView  = () => {
 
 
    
+
+
+
+   
+
+
+
+
+
 
 
 
