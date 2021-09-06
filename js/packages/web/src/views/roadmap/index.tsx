@@ -28,7 +28,7 @@ export const RdView  = () => {
      <Col sm={{span:24}} lg={{span:12}} style={{marginBottom:50, marginTop: 50}}>
      <h1  style={{ fontSize: 20}}>2. Artist Auction</h1> 
      <img alt="example" src="https://i.ibb.co/7Js9kc2/Roadmap2.png"      style={{ maxWidth: 300, maxHeight: 300}}/>
-     <h1  style={{ fontSize: 15,  marginRight:'auto', marginLeft:'auto', justifyContent:'center', maxWidth: 300, maxHeight: 300}}> After the DAO has its first 50 owners, the Founding Artists will auction on their own scheudle.</h1> 
+     <h1  style={{ fontSize: 15,  marginRight:'auto', marginLeft:'auto', justifyContent:'center', maxWidth: 300, maxHeight: 300}}> After the DAO has its first 50 owners, the Founding Artists will auction on their own schedule.</h1> 
 </Col>
 
 <Col sm={{span:24}} lg={{span:12}} style={{marginBottom:50, marginTop: 50}}>
