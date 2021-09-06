@@ -487,7 +487,7 @@ export function Notifications() {
       content={content}
       trigger="click"
     >
-      <h1 className="title">M</h1>
+      <h1 className="title">EVO-DAO</h1>
     </Popover>
   );
 
@@ -499,3 +499,4 @@ export function Notifications() {
       </Badge>
     );
 }
+
