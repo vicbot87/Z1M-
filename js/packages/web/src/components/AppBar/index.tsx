@@ -24,9 +24,9 @@ const UserActions = () => {
     <>
       {store && (
         <>
-          {/* <Link to={`#`}>
+          <Link to={`#`}>
             <Button className="app-btn">Bids</Button>
-          </Link> */}
+          </Link> 
           {canCreate ? (
             <Link to={`/art/create`}>
               <Button className="app-btn">Create</Button>
@@ -52,6 +52,12 @@ const DefaultActions = ({ vertical = false }: { vertical?: boolean }) => {
         flexDirection: vertical ? 'column' : 'row',
       }}
     >
+       <Link to={`/evo`}>
+        <Button className="app-btn">DAO</Button>
+      </Link>
+      <Link to={`/roadmap`}>
+        <Button className="app-btn">Roadmap</Button>
+      </Link>
       <Link to={`/`}>
         <Button className="app-btn">Explore</Button>
       </Link>
@@ -122,7 +128,7 @@ export const AppBar = () => {
         <div className="app-right app-bar-box">
           <UserActions />
           <CurrentUserBadge
-            showBalance={false}
+            showBalance={true}
             showAddress={false}
             iconSize={24}
           />
@@ -133,3 +139,4 @@ export const AppBar = () => {
     </>
   );
 };
+
