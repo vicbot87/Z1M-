@@ -213,7 +213,7 @@ Lite-Paper
           <Col span ={24}> 
 <div style={{maxWidth: 1200, maxHeight: 500,  marginTop: 10, marginBottom: 0,}}>  
                     <h1  style={{ fontSize: 20, color: '#19E6AD'}}>EVO-DAO Treasury</h1>
-                    <Paragraph copyable>BukxyT1ceg7f12CaAiJ1yDipGWvPGhFuSrkhKNMXm172</Paragraph>
+                    <Paragraph copyable>DefCPeusDX9PvrXMDmQAArpjv9sosDCYw5MJsaQCWTDa</Paragraph>
                     </div>
             
                     
