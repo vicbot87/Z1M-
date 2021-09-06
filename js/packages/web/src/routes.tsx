@@ -11,6 +11,8 @@ import {
   AuctionView,
   HomeView,
 } from './views';
+import {EvoView} from './views/evo';
+import {RdView} from './views/roadmap';
 import { AdminView } from './views/admin';
 import { BillingView } from './views/auction/billing';
 
@@ -39,8 +41,10 @@ export function Routes() {
             <Route exact path="/art/:id" component={() => <ArtView />} />
             <Route exact path="/artists/:id" component={() => <ArtistView />} />
             <Route exact path="/artists" component={() => <ArtistsView />} />
-            <Route
-              exact
+            <Route exact path="/evo" component={() => <EvoView/>} />
+            <Route exact path="/roadmap" component={() => <RdView/>} />
+
+            <Route  exact
               path="/auction/create/:step_param?"
               component={() => <AuctionCreateView />}
             />
@@ -61,3 +65,5 @@ export function Routes() {
     </>
   );
 }
+
+
