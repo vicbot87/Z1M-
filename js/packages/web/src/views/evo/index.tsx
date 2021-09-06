@@ -22,12 +22,12 @@ export const EvoView  = () => {
 </div>
 
 
-          <Row style={{ marginRight:'auto', marginLeft:'auto', marginTop: 60,  justifyContent:'center',textAlign: 'center', maxWidth: 1200, marginBottom: 0 }}>  
+<Row style={{ marginRight:'auto', marginLeft:'auto', marginTop: 60,  justifyContent:'center',textAlign: 'center', maxWidth: 1200, marginBottom: 0 }}>  
    
 
-      <div style={{maxWidth: 500, height: 800,  marginTop: 10,}}>   
-      
-            <div className="evo-dao-2">  <h1  style={{ fontSize: 35 }}>An Auction Platform Controlled by the People</h1>
+   <div style={{maxWidth: 1200, height: 800,  marginTop: 10,}}>   
+   
+         <div className="evo-dao-2">  <h1  style={{ fontSize: 35 }}>The First Auction Platform Owned by the People</h1>
             <i style={{ fontSize: 15 }}>09/08/2021 -10:00PM UTC</i>
             </div>
             <div className="evo-dao-1" style={{ fontSize: 15,  marginTop: 50 }}>
