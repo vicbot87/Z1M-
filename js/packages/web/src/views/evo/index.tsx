@@ -85,7 +85,7 @@ Lite-Paper
 
         <Row style={{ marginTop: 100, marginBottom: 50, justifyContent:"center", textAlign: 'center', marginRight: 'auto', marginLeft: 'auto'}}> 
 
-  <div style={{width: 300, maxHeight: 500,  marginTop: 10}}>  
+  <div style={{width: 300, maxHeight: 300,  marginTop: 10}}>  
                   
       
                   <h1 className="evo-dao-2" style={{ fontSize: 25 }}> Membership Utility</h1>
@@ -111,7 +111,7 @@ Lite-Paper
 
         <Row  style={{ marginTop: 100, marginBottom: 0, justifyContent:"center", textAlign: 'center', marginRight: 'auto', marginLeft: 'auto'}}> 
 
-  <div style={{maxWidth: 300, maxHeight: 500,  marginTop: 10}}>  
+  <div style={{maxWidth: 300, maxHeight: 300,  marginTop: 10}}>  
             
       
                  <h1  style={{ fontSize: 25}}> Portfolio Diversity</h1>
@@ -130,7 +130,7 @@ Lite-Paper
 
         <Row  style={{ marginTop: 100, marginBottom: 150, justifyContent:"center", textAlign: 'center', marginRight: 'auto', marginLeft: 'auto'}}> 
 
-<div style={{maxWidth: 300, maxHeight: 500,  marginTop: 10, marginBottom: 100,}}>  
+<div style={{maxWidth: 300, maxHeight: 300,  marginTop: 10, marginBottom: 100,}}>  
              
          
                     <h1  style={{ fontSize: 25}}>Voting</h1>
