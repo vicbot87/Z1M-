@@ -94,7 +94,7 @@ Lite-Paper
                  <h1 style={{fontSize: 18,  color: '#19E6AD'}}>Profit</h1>
                  <h1 style={{fontSize: 18}}>EVO-DAO members control auction site revenue.</h1>
                  <h1 style={{fontSize: 18,  color: '#19E6AD'}}>Govern</h1>
-                    <h1 style={{fontSize: 18}}>Vote to evolve EVO-DAO with Solana. </h1>
+                    <h1 style={{fontSize: 18}}>Judge art competitions.</h1>
                     <h1 style={{fontSize: 18,  color: '#19E6AD'}}>Quality </h1>
                     <h1 style={{fontSize: 18}}> Vote to add or remove artists from the site.  </h1>
               
