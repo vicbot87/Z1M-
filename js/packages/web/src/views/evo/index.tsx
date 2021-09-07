@@ -58,7 +58,7 @@ Lite-Paper
               
                  
                     ]}
-                    cover={ <img  src="https://i.ibb.co/xh4WdZx/EVO-NFT-final.png"  height="300" width="300" 
+                    cover={ <img  src="https://i.ibb.co/zrYpSHR/EVO-Final-Twitter.png"  height="300" width="300" 
                     />}
 
                     >
@@ -86,7 +86,7 @@ Lite-Paper
         <Row style={{ marginTop: 100, marginBottom: 50, justifyContent:"center", textAlign: 'center', marginRight: 'auto', marginLeft: 'auto'}}> 
 
   <div style={{width: 300, maxHeight: 500,  marginTop: 10}}>  
-                 <img className="pic"  src="https://i.ibb.co/tq1wZpr/Cards.png" style={{  maxWidth: 300, maxHeight:300}} />    
+                  
       
                   <h1 className="evo-dao-2" style={{ fontSize: 25 }}> NFT Utility</h1>
                   <div style={{textAlign: 'center'}}> 
@@ -112,7 +112,7 @@ Lite-Paper
         <Row  style={{ marginTop: 100, marginBottom: 0, justifyContent:"center", textAlign: 'center', marginRight: 'auto', marginLeft: 'auto'}}> 
 
   <div style={{maxWidth: 300, maxHeight: 500,  marginTop: 10}}>  
-                 <img className="pic"  src="https://i.ibb.co/85tZffz/Copy-of-Cards.png" style={{  maxWidth: 300, maxHeight:300}} />    
+            
       
                  <h1  style={{ fontSize: 25}}> Portfolio Diversity</h1>
                   <div style={{textAlign: 'center'}}> 
@@ -131,7 +131,7 @@ Lite-Paper
         <Row  style={{ marginTop: 100, marginBottom: 150, justifyContent:"center", textAlign: 'center', marginRight: 'auto', marginLeft: 'auto'}}> 
 
 <div style={{maxWidth: 300, maxHeight: 500,  marginTop: 10, marginBottom: 100,}}>  
-               <img className="pic"  src="https://i.ibb.co/Vj5kfYb/Arrow-1-1.png" style={{  maxWidth: 300, maxHeight:300}} />    
+             
          
                     <h1  style={{ fontSize: 25}}>Voting</h1>
                     <div style={{textAlign: 'center'}}> 
