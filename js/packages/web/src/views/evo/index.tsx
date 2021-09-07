@@ -88,7 +88,7 @@ Lite-Paper
   <div style={{width: 300, maxHeight: 500,  marginTop: 10}}>  
                   
       
-                  <h1 className="evo-dao-2" style={{ fontSize: 25 }}> NFT Utility</h1>
+                  <h1 className="evo-dao-2" style={{ fontSize: 25 }}> Membership Utility</h1>
                   <div style={{textAlign: 'center'}}> 
             <div className="evo-dao-1" style={{ fontSize: 15 }}>
                  <h1 style={{fontSize: 18,  color: '#19E6AD'}}>Profit</h1>
