@@ -60,9 +60,6 @@ const DefaultActions = ({ vertical = false }: { vertical?: boolean }) => {
           {connected ? 'Gallery' : 'Gallery'}
         </Button>
       </Link>
-      <Link to={`/artists`}>
-        <Button className="app-btn">Creators</Button>
-      </Link>
     </div>
   );
 };
