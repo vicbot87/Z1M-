@@ -487,7 +487,7 @@ export function Notifications() {
       content={content}
       trigger="click"
     >
-      <h1 className="title">EVO-DAO</h1>
+      <h1 className="title">Z1MPLEX NFT LAB</h1>
     </Popover>
   );
 
