@@ -52,18 +52,12 @@ const DefaultActions = ({ vertical = false }: { vertical?: boolean }) => {
         flexDirection: vertical ? 'column' : 'row',
       }}
     >
-       <Link to={`/evo`}>
-        <Button className="app-btn">DAO</Button>
-      </Link>
-      <Link to={`/roadmap`}>
-        <Button className="app-btn">Roadmap</Button>
-      </Link>
       <Link to={`/`}>
-        <Button className="app-btn">Explore</Button>
+        <Button className="app-btn">Auctions</Button>
       </Link>
       <Link to={`/artworks`}>
         <Button className="app-btn">
-          {connected ? 'My Items' : 'Artworks'}
+          {connected ? 'Gallery' : 'Gallery'}
         </Button>
       </Link>
       <Link to={`/artists`}>
@@ -88,19 +82,14 @@ const MetaplexMenu = () => {
             <Menu>
               <Menu.Item>
                 <Link to={`/`}>
-                  <Button className="app-btn">Explore</Button>
+                  <Button className="app-btn">Auctions</Button>
                 </Link>
               </Menu.Item>
               <Menu.Item>
                 <Link to={`/artworks`}>
                   <Button className="app-btn">
-                    {connected ? 'My Items' : 'Artworks'}
+                    {connected ? 'Gallery' : 'Gallery'}
                   </Button>
-                </Link>
-              </Menu.Item>
-              <Menu.Item>
-                <Link to={`/artists`}>
-                  <Button className="app-btn">Creators</Button>
                 </Link>
               </Menu.Item>
             </Menu>
