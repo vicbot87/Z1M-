@@ -11,8 +11,6 @@ import {
   AuctionView,
   HomeView,
 } from './views';
-import {EvoView} from './views/evo';
-import {RdView} from './views/roadmap';
 import { AdminView } from './views/admin';
 import { BillingView } from './views/auction/billing';
 
